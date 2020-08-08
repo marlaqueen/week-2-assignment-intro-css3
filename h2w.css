@@ -59,3 +59,5 @@ nav a{
 	width: 80%;
 	margin: 10%;
 }
+syntax_highlighter_opts:
+    disable : true
